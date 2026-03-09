@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":30.587936,
+  "duration":0.0,
   "name":"Sound1",
   "parent":{
     "name":"Sounds",
