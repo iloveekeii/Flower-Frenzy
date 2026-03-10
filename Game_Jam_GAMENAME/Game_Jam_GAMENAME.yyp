@@ -30,6 +30,7 @@
   "name":"Game_Jam_GAMENAME",
   "resources":[
     {"id":{"name":"obj_flower","path":"objects/obj_flower/obj_flower.yy",},},
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_grass","path":"objects/obj_grass/obj_grass.yy",},},
     {"id":{"name":"obj_maze","path":"objects/obj_maze/obj_maze.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
