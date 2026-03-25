@@ -603,6 +603,7 @@
         {"$GMRInstance":"v2","%Name":"inst_E633152","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_E633152","objectId":{"name":"obj_thorn","path":"objects/obj_thorn/obj_thorn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.5,"scaleY":4.0,"x":-32.0,"y":256.0,},
         {"$GMRInstance":"v2","%Name":"inst_260FE11","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_260FE11","objectId":{"name":"obj_thorn","path":"objects/obj_thorn/obj_thorn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":128.0,"y":416.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+  ]
   "instanceCreationOrder":[],
   "isDnd":false,
   "layers":[
